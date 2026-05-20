@@ -1,4 +1,4 @@
-S2C,430,0,liga
+S2C430,0,liga
 S2C,440,32,flange
 FD,194,1,job em relativo
 S3C,100,5,parametro exemplo
